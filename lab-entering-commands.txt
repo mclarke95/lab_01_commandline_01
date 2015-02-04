@@ -179,4 +179,3 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ---------- -a Desktop ls
-
